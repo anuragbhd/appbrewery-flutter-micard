@@ -19,3 +19,8 @@ flutter:
 
   assets:
     - images/anurag.jpg
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf

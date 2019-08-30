@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
               Text(
                 'Anurag Bhandari',
                 style: TextStyle(
+                  fontFamily: 'Pacifico',
                   color: Colors.white,
                   fontSize: 40.0,
                 ),
